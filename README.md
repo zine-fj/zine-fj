@@ -7,7 +7,7 @@
 -->
 <div align=center>
 
-<img src="./assets/avatar.png" width=100 />
+<img src="assets/avatar.png" width=100 />
 
 # Nice To Meet You :wave:
 <p>
